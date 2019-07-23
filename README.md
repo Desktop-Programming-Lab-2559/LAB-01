@@ -10,7 +10,7 @@
 
 1. เรียกโปรแกรม Microsoft Visual Studio 
 2. สร้าง Project ใหม่  โดยเลือกเมนู File >> New >> Project… (Ctrl+Shift+N) จะปรากฏหน้าต่าง New Project ดังรูปที่ 1 ให้ทำตามขั้นตอน 2.1 – 2.4
-![](https://github.com/Desktop-Programming-Lab-2559/LAB-01/blob/master/imgs/pic1.png)
+![](./imgs/pic1.png)
     2.1 ช่อง Templates: ให้เลือก Visual C++ และเลือกชนิด project เป็น Empty Project
 
     2.2 ช่อง Name: ให้ใส่ชื่อของ Project เป็น EasyWin32
